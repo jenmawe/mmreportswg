@@ -1,9 +1,9 @@
 # mmreportswg
 
-We're now making more changes to the same line as in local.
+We're now making changes here just for fun and resolving conflicts at the same time. We are here to make a change.
 
 This is a sample repository for MM reports working group. We will learn how to do stuff with it. Describe your commit.
 
 Let's go for a bigger change in the description.
-So much fun.
 
+This is the local branch.
